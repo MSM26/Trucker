@@ -1,1 +1,3 @@
-signin.js
+(function(){
+ 	console.log('signin');
+})();
